@@ -1,4 +1,4 @@
-## 自定义组件
+### 自定义组件
 ## 说明
 该组件是基于vue2.0+Element组件库的自定义组件,  
 
@@ -12,17 +12,16 @@ npm i
 npm i element-ui -S
 ```
 ## 使用手册
-ComponentAdd.vue(创建组件)  
+# ComponentAdd.vue(创建组件)  
 
 `@addComponent`  
 
 该函数处理添加不同的组件,传输到ComponentList.vue中  
 
-ComponentList.vue(添加的组件列表)  
+  
+# ComponentList.vue(添加的组件列表)  
 
-`props`  
-
-// 传入组件内容  
+`props`  *传入组件内容  
 
 assembly(拥有本地数据的列表)  
 
